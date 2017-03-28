@@ -1,5 +1,5 @@
 ﻿{
     "connectionString": "mongodb://random-id:sK0E1daomlzoxLaV2o8erWVMHDj3A7Le6u8NF3bI7oUrY9eFag6DopyeVmboyKw3lE1ODwqyTqs0JuIRxdNcDw==@random-id.documents.azure.com:10250/?ssl=true",
-    "apiUrl": "http://dtf-jb-paas-eval.azurewebsites.net/api",
+    "apiUrl": "http://dtf-jb-paas-eval.azurewebsites.net:3000/api",
     "secret": "daniel"
 }
