@@ -1,5 +1,5 @@
 ﻿{
-    "connectionString": "mongodb://localhost:27017/mean-stack-registration-login-example",
+    "connectionString": "mongodb://random-id:sK0E1daomlzoxLaV2o8erWVMHDj3A7Le6u8NF3bI7oUrY9eFag6DopyeVmboyKw3lE1ODwqyTqs0JuIRxdNcDw==@random-id.documents.azure.com:10250/?ssl=true",
     "apiUrl": "http://localhost:3000/api",
     "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
 }
