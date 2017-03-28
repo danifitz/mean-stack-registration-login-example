@@ -81,6 +81,7 @@ function create(userParam) {
             user,
             function (err, doc) {
                 if (err) deferred.reject(err.name + ': ' + err.message);
+                console.log('successfully created user');
 
                 deferred.resolve();
             });
