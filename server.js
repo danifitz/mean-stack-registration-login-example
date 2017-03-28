@@ -26,7 +26,7 @@ app.get('/', function (req, res) {
     return res.redirect('/app');
 });
 
-// start server
+// start server - look for PORT in env
 var port = process.env.PORT || 3000;
 var server = app.listen(port, function () {
     console.log('Server listening at http://' + server.address().address + ':' + server.address().port);
